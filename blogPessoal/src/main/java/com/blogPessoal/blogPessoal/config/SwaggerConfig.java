@@ -35,9 +35,9 @@ public class SwaggerConfig {
     }
 
     private Contact contact(){
-        return new Contact("Lucas Capelotto",
-                "https://github.com/LucasCapSilva",
-                "Instrutor full stack Angular Spring");
+        return new Contact("panda",
+                "https://github.com/larissa4lves",
+                "Aluna Generation Brasil");
     }
 }
 
